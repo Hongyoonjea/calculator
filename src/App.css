@@ -1,0 +1,40 @@
+.calculator-border {
+ width: 480px;
+ height: 480px;
+ margin: auto;
+}
+
+.claculator-input {
+  width: 100%;
+  padding: 20px 0;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.button-count {
+  width: 100%;
+  padding: 20px 0;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.operator {
+  padding: 0 12px;
+}
+
+.button-count > .button-margin {
+  margin-right: 20px;
+}
+
+.calculate {
+  width: 100%;
+  padding: 20px 0;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.calculate > .calculate-input {
+  margin-right: 10px;
+}
